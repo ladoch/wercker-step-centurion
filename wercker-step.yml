@@ -1,0 +1,17 @@
+name: centurion
+version: 0.0.1
+description: Run NewRelic Centurion tasks to deploy docker containers.
+keywords:
+  - docker
+  - centurion
+  - deploy
+properties:
+  project:
+    type: string
+    required: true
+  environment:
+    type: string
+    required: true
+  action:
+    type: string
+    required: true
