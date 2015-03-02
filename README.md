@@ -1,4 +1,6 @@
 
+[![wercker status](https://app.wercker.com/status/0663889dacab2ff8b2bc69cb613ecaa6/m "wercker status")](https://app.wercker.com/project/bykey/0663889dacab2ff8b2bc69cb613ecaa6)
+
 # centurion
 
 Run [NewRelic Centurion](https://github.com/newrelic/centurion) tasks to deploy docker containers.
